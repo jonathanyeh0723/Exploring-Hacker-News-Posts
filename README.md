@@ -1,6 +1,9 @@
 # Exploring Hacker News Posts
 To analyse post types on [Hacker News](https://news.ycombinator.com/) and determine if there is a type of post which is more popular and attracts more comments.
 
+## Introduction
+Hacker News is a site started by the startup incubator [Y Combinator](https://www.ycombinator.com/), where user-submitted stories (known as "posts") are voted and commented upon, similar to reddit. Hacker News is extremely popular in technology and startup circles, and posts that make it to the top of Hacker News' listings can get hundreds of thousands of visitors as a result.
+
 ## Conclusion
 This project's purpose was to analyse post types on Hacker News and determine if there is a type of post which is more popular and attracts more comments.
 
