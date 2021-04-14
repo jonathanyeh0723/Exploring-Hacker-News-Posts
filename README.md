@@ -1,5 +1,5 @@
 # Exploring Hacker News Posts
-To analyse post types on Hacker News and determine if there is a type of post which is more popular and attracts more comments.
+To analyse post types on (Hacker News)[https://news.ycombinator.com/] and determine if there is a type of post which is more popular and attracts more comments.
 
 ## Conclusion
 This project's purpose was to analyse post types on Hacker News and determine if there is a type of post which is more popular and attracts more comments.
