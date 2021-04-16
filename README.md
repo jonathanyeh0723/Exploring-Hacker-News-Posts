@@ -8,6 +8,10 @@ Hacker News is a site started by the startup incubator [Y Combinator](https://ww
 
 ## The Data
 
+20101 rows with 7 features. Below are descriptions of the columns:
+
+ - `id`: The unique identifier from Hacker News for the post
+
 ## Target
 
 ## Workflow
